@@ -1,0 +1,171 @@
+/**
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ */
+
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#setting
+{
+    text-align: right;
+}
+
+#logout
+{
+    text-align: right;
+}
+
+#top
+{
+    font-size: 300%;
+}
+
+#anchorbot
+{
+    text-align: right;
+}
+
+#anchortop
+{
+    text-align: right;
+}
+
+table
+{
+    border: 1px solid green;
+    table-layout: fixed;
+    width: 100%;
+}
+
+th
+{
+    background-color: #458DCB;
+    border: 1px solid #458DCB;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+td
+{
+    background-color: #E6E6E6;
+    border: 1px solid #458DCB;
+    color: black;
+    word-wrap:break-word;
+}
+
+.thtopic
+{
+    width: 80%;
+}
+
+.thname
+{
+    width: 20%;
+}
+
+.tdtopic
+{
+    text-align: left;
+    width: 100%;
+}
+
+.tdname
+{
+    text-align: right;
+    width: 100%;
+}
+
+.txbox
+{
+    background-color: #8FBAE0;
+    border: 1px solid #458DCB;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 25px;
+    position: relative;
+    text-align: left;
+    word-wrap:break-word;
+}
+
+.name
+{
+    color: black;
+    font-weight: bold;
+}
+
+.time
+{
+    color: black;
+}
+
+.num
+{
+    color: black;
+}
+
+.cm
+{
+    color: black;
+}
+
+#middle ul
+{
+    display: inline-block;
+}
+
+#middle ul li
+{
+    display: block;
+}
+
+#middletop ul
+{
+    display: inline-block;
+}
+
+#middletop ul li
+{
+    display: block;
+}
+
+#middle .form-control
+{
+    /* center form controls */
+    display: inline-block;
+    background-color: white;
+
+    /* override Bootstrap's 100% width for form controls */
+    /* width: auto; */
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+    
+    display: block;
+
+    /* surround with whitespace */
+    margin: 20px;
+}
+
+#bottom ul
+{
+    display: inline-block;
+}
+
+#bottom ul li
+{
+    display: inline-block;
+}
