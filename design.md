@@ -1,3 +1,5 @@
+# Design
+
 The purpose of neatBoard is to be a simple and user-friendly message board. Whenever I browse a website similar to, say Reddit, I feel 
 that there is way too much going on each page. Thus I decided to create this website with a design that is hopefully less 
 cluttered and more user-friendly.

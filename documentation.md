@@ -1,3 +1,5 @@
+# Documentation
+
 Inspired by popular websites such as Reddit, Twitter, 4chan, 2channel, Futaba, etc., I have decided to try and implement my
 own version of an online message board for CS50's final project. The result is neatBoard, an online discussion website/message board
 that allows users to talk about subjects in the form of posted messages. neatBoard hosts a variety of popular subjects: Anime, 
